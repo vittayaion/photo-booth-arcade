@@ -1,0 +1,45 @@
+{
+  "name": "pomeranian-photo-booth-arcade",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "assets:build": "tsx scripts/build-assets.ts",
+    "assets:check": "tsx scripts/check-assets.ts",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-thai": "^5.2.0",
+    "@fontsource/press-start-2p": "^5.2.0",
+    "@fontsource/space-grotesk": "^5.2.0",
+    "@tailwindcss/postcss": "4.3.3",
+    "konva": "10.7.1",
+    "lucide-react": "^0.468.0",
+    "motion": "14.1.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-konva": "19.3.0",
+    "tailwindcss": "4.3.3",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "prettier": "^3.9.10",
+    "sharp": "^0.34.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "esbuild"
+    ]
+  }
+}

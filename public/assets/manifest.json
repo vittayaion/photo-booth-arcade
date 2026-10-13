@@ -1,0 +1,1641 @@
+{
+  "canvas": {
+    "width": 1024,
+    "height": 1820
+  },
+  "frames": [
+    {
+      "id": "pomeranian",
+      "name": "Kawaii Pomeranian",
+      "thai": "ปอมปอมเลิฟเวอร์",
+      "color": "#ffe4f0",
+      "accent": "#FF78B2",
+      "tag": "FAN FAVORITE",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/pomeranian-1.png",
+          "thumbnail": "/assets/frames/pomeranian-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/pomeranian-4.png",
+          "thumbnail": "/assets/frames/pomeranian-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/pomeranian-6.png",
+          "thumbnail": "/assets/frames/pomeranian-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "teddy",
+      "name": "Teddy Bear",
+      "thai": "อ้อมกอดเท็ดดี้",
+      "color": "#fff0d7",
+      "accent": "#cc8c52",
+      "tag": "COZY",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/teddy-1.png",
+          "thumbnail": "/assets/frames/teddy-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/teddy-4.png",
+          "thumbnail": "/assets/frames/teddy-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/teddy-6.png",
+          "thumbnail": "/assets/frames/teddy-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "film",
+      "name": "Film Camera",
+      "thai": "ความทรงจำบนฟิล์ม",
+      "color": "#292537",
+      "accent": "#c4c0b9",
+      "tag": "CLASSIC",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/film-1.png",
+          "thumbnail": "/assets/frames/film-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/film-4.png",
+          "thumbnail": "/assets/frames/film-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/film-6.png",
+          "thumbnail": "/assets/frames/film-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "thai": "วันที่มีสายรุ้ง",
+      "color": "#dff4ff",
+      "accent": "#8DDCFF",
+      "tag": "DREAMY",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/rainbow-1.png",
+          "thumbnail": "/assets/frames/rainbow-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/rainbow-4.png",
+          "thumbnail": "/assets/frames/rainbow-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/rainbow-6.png",
+          "thumbnail": "/assets/frames/rainbow-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "galaxy",
+      "name": "Pixel Galaxy",
+      "thai": "ท่องจักรวาลพิกเซล",
+      "color": "#272449",
+      "accent": "#B9A5FF",
+      "tag": "COSMIC",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/galaxy-1.png",
+          "thumbnail": "/assets/frames/galaxy-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/galaxy-4.png",
+          "thumbnail": "/assets/frames/galaxy-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/galaxy-6.png",
+          "thumbnail": "/assets/frames/galaxy-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "y2k",
+      "name": "Y2K",
+      "thai": "ย้อนยุคสุดคิวท์",
+      "color": "#f4d9ff",
+      "accent": "#dc8bef",
+      "tag": "TRENDING",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/y2k-1.png",
+          "thumbnail": "/assets/frames/y2k-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/y2k-4.png",
+          "thumbnail": "/assets/frames/y2k-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/y2k-6.png",
+          "thumbnail": "/assets/frames/y2k-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "floral",
+      "name": "Floral",
+      "thai": "สวนดอกไม้ของเรา",
+      "color": "#f4f2d9",
+      "accent": "#90b997",
+      "tag": "SOFT",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/floral-1.png",
+          "thumbnail": "/assets/frames/floral-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/floral-4.png",
+          "thumbnail": "/assets/frames/floral-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/floral-6.png",
+          "thumbnail": "/assets/frames/floral-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "thai": "บันทึกวันดี ๆ",
+      "color": "#fff4e4",
+      "accent": "#ffb69d",
+      "tag": "MEMORIES",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/notebook-1.png",
+          "thumbnail": "/assets/frames/notebook-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/notebook-4.png",
+          "thumbnail": "/assets/frames/notebook-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/notebook-6.png",
+          "thumbnail": "/assets/frames/notebook-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bear",
+      "name": "Minimal Bear",
+      "thai": "หมีน้อยมินิมอล",
+      "color": "#f6ead7",
+      "accent": "#ad8b70",
+      "tag": "MINIMAL",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/bear-1.png",
+          "thumbnail": "/assets/frames/bear-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/bear-4.png",
+          "thumbnail": "/assets/frames/bear-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/bear-6.png",
+          "thumbnail": "/assets/frames/bear-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "retro",
+      "name": "Retro Arcade",
+      "thai": "เกมแห่งความทรงจำ",
+      "color": "#282342",
+      "accent": "#ffe57e",
+      "tag": "PLAYFUL",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/retro-1.png",
+          "thumbnail": "/assets/frames/retro-1-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 1428
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/retro-4.png",
+          "thumbnail": "/assets/frames/retro-4-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 523,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 886,
+              "width": 864,
+              "height": 339
+            },
+            {
+              "x": 80,
+              "y": 1249,
+              "width": 864,
+              "height": 339
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/retro-6.png",
+          "thumbnail": "/assets/frames/retro-6-thumb.webp",
+          "slots": [
+            {
+              "x": 80,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 160,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 644,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 80,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            },
+            {
+              "x": 524,
+              "y": 1128,
+              "width": 420,
+              "height": 460
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "kitty",
+      "name": "Hello Kitty",
+      "thai": "โบว์แดงกับวันหวาน ๆ",
+      "color": "#fff0f3",
+      "accent": "#ed577d",
+      "tag": "ANIME",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/kitty-1.png",
+          "thumbnail": "/assets/frames/kitty-1-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 1116
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/kitty-4.png",
+          "thumbnail": "/assets/frames/kitty-4-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 505,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 790,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 1075,
+              "width": 832,
+              "height": 261
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/kitty-6.png",
+          "thumbnail": "/assets/frames/kitty-6-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "kuromi",
+      "name": "Kuromi",
+      "thai": "คิวท์แบบตัวแสบ",
+      "color": "#e9ddfa",
+      "accent": "#8f6bc2",
+      "tag": "ANIME",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/kuromi-1.png",
+          "thumbnail": "/assets/frames/kuromi-1-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 1116
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/kuromi-4.png",
+          "thumbnail": "/assets/frames/kuromi-4-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 505,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 790,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 1075,
+              "width": 832,
+              "height": 261
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/kuromi-6.png",
+          "thumbnail": "/assets/frames/kuromi-6-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tanjiro",
+      "name": "Tanjiro & Nezuko",
+      "thai": "สายสัมพันธ์แห่งซากุระ",
+      "color": "#153c35",
+      "accent": "#f5a7be",
+      "tag": "ANIME",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/tanjiro-1.png",
+          "thumbnail": "/assets/frames/tanjiro-1-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 1116
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/tanjiro-4.png",
+          "thumbnail": "/assets/frames/tanjiro-4-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 505,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 790,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 1075,
+              "width": 832,
+              "height": 261
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/tanjiro-6.png",
+          "thumbnail": "/assets/frames/tanjiro-6-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "zenitsu",
+      "name": "Zenitsu",
+      "thai": "ประกายสายฟ้าสีทอง",
+      "color": "#342b22",
+      "accent": "#ffc648",
+      "tag": "ANIME",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/zenitsu-1.png",
+          "thumbnail": "/assets/frames/zenitsu-1-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 1116
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/zenitsu-4.png",
+          "thumbnail": "/assets/frames/zenitsu-4-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 505,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 790,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 1075,
+              "width": 832,
+              "height": 261
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/zenitsu-6.png",
+          "thumbnail": "/assets/frames/zenitsu-6-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "inosuke",
+      "name": "Inosuke",
+      "thai": "ผจญภัยกับเจ้าหมูป่า",
+      "color": "#24374d",
+      "accent": "#75c5ef",
+      "tag": "ANIME",
+      "variants": {
+        "1": {
+          "src": "/assets/frames/inosuke-1.png",
+          "thumbnail": "/assets/frames/inosuke-1-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 1116
+            }
+          ]
+        },
+        "4": {
+          "src": "/assets/frames/inosuke-4.png",
+          "thumbnail": "/assets/frames/inosuke-4-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 505,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 790,
+              "width": 832,
+              "height": 261
+            },
+            {
+              "x": 96,
+              "y": 1075,
+              "width": 832,
+              "height": 261
+            }
+          ]
+        },
+        "6": {
+          "src": "/assets/frames/inosuke-6.png",
+          "thumbnail": "/assets/frames/inosuke-6-thumb.webp",
+          "slots": [
+            {
+              "x": 96,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 220,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 600,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 96,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            },
+            {
+              "x": 524,
+              "y": 980,
+              "width": 404,
+              "height": 356
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "stickers": [
+    {
+      "id": "pom-camera",
+      "src": "/assets/stickers/pom-camera.png"
+    },
+    {
+      "id": "pom-love",
+      "src": "/assets/stickers/pom-love.png"
+    },
+    {
+      "id": "pom-star",
+      "src": "/assets/stickers/pom-star.png"
+    },
+    {
+      "id": "pom-party",
+      "src": "/assets/stickers/pom-party.png"
+    },
+    {
+      "id": "heart-pink",
+      "src": "/assets/stickers/heart-pink.png"
+    },
+    {
+      "id": "heart-blue",
+      "src": "/assets/stickers/heart-blue.png"
+    },
+    {
+      "id": "heart-lilac",
+      "src": "/assets/stickers/heart-lilac.png"
+    },
+    {
+      "id": "double-heart",
+      "src": "/assets/stickers/double-heart.png"
+    },
+    {
+      "id": "star-yellow",
+      "src": "/assets/stickers/star-yellow.png"
+    },
+    {
+      "id": "star-blue",
+      "src": "/assets/stickers/star-blue.png"
+    },
+    {
+      "id": "sparkle",
+      "src": "/assets/stickers/sparkle.png"
+    },
+    {
+      "id": "moon",
+      "src": "/assets/stickers/moon.png"
+    },
+    {
+      "id": "flower-pink",
+      "src": "/assets/stickers/flower-pink.png"
+    },
+    {
+      "id": "flower-blue",
+      "src": "/assets/stickers/flower-blue.png"
+    },
+    {
+      "id": "daisy",
+      "src": "/assets/stickers/daisy.png"
+    },
+    {
+      "id": "tulip",
+      "src": "/assets/stickers/tulip.png"
+    },
+    {
+      "id": "camera-pink",
+      "src": "/assets/stickers/camera-pink.png"
+    },
+    {
+      "id": "camera-blue",
+      "src": "/assets/stickers/camera-blue.png"
+    },
+    {
+      "id": "bow-pink",
+      "src": "/assets/stickers/bow-pink.png"
+    },
+    {
+      "id": "bow-lilac",
+      "src": "/assets/stickers/bow-lilac.png"
+    },
+    {
+      "id": "ribbon",
+      "src": "/assets/stickers/ribbon.png"
+    },
+    {
+      "id": "cloud",
+      "src": "/assets/stickers/cloud.png"
+    },
+    {
+      "id": "rainbow",
+      "src": "/assets/stickers/rainbow.png"
+    },
+    {
+      "id": "cloud-love",
+      "src": "/assets/stickers/cloud-love.png"
+    },
+    {
+      "id": "cherries",
+      "src": "/assets/stickers/cherries.png"
+    },
+    {
+      "id": "strawberry",
+      "src": "/assets/stickers/strawberry.png"
+    },
+    {
+      "id": "peach",
+      "src": "/assets/stickers/peach.png"
+    },
+    {
+      "id": "orange",
+      "src": "/assets/stickers/orange.png"
+    },
+    {
+      "id": "planet",
+      "src": "/assets/stickers/planet.png"
+    },
+    {
+      "id": "controller",
+      "src": "/assets/stickers/controller.png"
+    },
+    {
+      "id": "crown",
+      "src": "/assets/stickers/crown.png"
+    },
+    {
+      "id": "teddy",
+      "src": "/assets/stickers/teddy.png"
+    }
+  ],
+  "text": [
+    {
+      "text": "GOOD DAY",
+      "src": "/assets/text/good-day.png"
+    },
+    {
+      "text": "LOVE",
+      "src": "/assets/text/love.png"
+    },
+    {
+      "text": "BESTIE",
+      "src": "/assets/text/bestie.png"
+    },
+    {
+      "text": "HAPPY",
+      "src": "/assets/text/happy.png"
+    },
+    {
+      "text": "SMILE",
+      "src": "/assets/text/smile.png"
+    },
+    {
+      "text": "CUTE",
+      "src": "/assets/text/cute.png"
+    },
+    {
+      "text": "NICE!",
+      "src": "/assets/text/nice.png"
+    },
+    {
+      "text": "GAME ON",
+      "src": "/assets/text/game-on.png"
+    },
+    {
+      "text": "YAY!",
+      "src": "/assets/text/yay.png"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "arcade",
+      "src": "/assets/backgrounds/arcade.webp"
+    },
+    {
+      "id": "night",
+      "src": "/assets/backgrounds/night.webp"
+    },
+    {
+      "id": "dream",
+      "src": "/assets/backgrounds/dream.webp"
+    },
+    {
+      "id": "clouds",
+      "src": "/assets/backgrounds/clouds.webp"
+    }
+  ],
+  "effects": [
+    {
+      "id": "flash",
+      "name": "Flash",
+      "src": "/assets/effects/flash.png"
+    },
+    {
+      "id": "hearts",
+      "name": "Hearts",
+      "src": "/assets/effects/hearts.png"
+    },
+    {
+      "id": "stars",
+      "name": "Stars",
+      "src": "/assets/effects/stars.png"
+    },
+    {
+      "id": "confetti",
+      "name": "Confetti",
+      "src": "/assets/effects/confetti.png"
+    },
+    {
+      "id": "petals",
+      "name": "Petals",
+      "src": "/assets/effects/petals.png"
+    },
+    {
+      "id": "grain",
+      "name": "Film grain",
+      "src": "/assets/effects/grain.png"
+    },
+    {
+      "id": "noise",
+      "name": "Pixel noise",
+      "src": "/assets/effects/noise.png"
+    }
+  ]
+}
