@@ -36,6 +36,18 @@ Browser screenshots are saved under `artwork/qa/` for Home (three widths), deskt
 
 ## Not verified on hardware
 
+## Vercel production smoke check — 13 October 2026
+
+Production URL: https://photo-booth-arcade.vercel.app
+
+- Vercel cloud build and TypeScript completed successfully using Node.js 24.x and pnpm 10.32.1.
+- Public HTTPS URL returns HTTP 200 without authentication; secure-context MediaDevices is available.
+- Headless Chrome loaded all 15 frame previews, captured a photo with the simulated camera, replaced it with an uploaded test image, added a sticker, and exported/downloaded a 1024 × 1820 PNG.
+- The uploaded image's pixel was verified in the exported PNG; the downloaded PNG was byte-identical to Preview.
+- No page errors or POST requests during this flow; no horizontal overflow at 375 px.
+
+## Hardware verification limits
+
 - A physical webcam and its OS/browser permission dialog.
 - Physical iOS/Android devices and Safari/WebKit behavior.
 - Mobile camera access through LAN: requires HTTPS; localhost camera checks were performed on the development computer.

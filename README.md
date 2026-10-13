@@ -2,6 +2,8 @@
 
 เว็บถ่ายรูปสไตล์ Kawaii Pixel Arcade ใช้งานบน localhost ครบ 5 ขั้นตอน: เลือกกรอบ → ถ่ายรูป → ตกแต่ง → Preview → ดาวน์โหลด PNG
 
+เว็บออนไลน์: **https://photo-booth-arcade.vercel.app**
+
 ![Anime Collection — Hello Kitty, Kuromi และ Demon Slayer](artwork/qa/anime-collection.png)
 
 ## เริ่มใช้งาน
@@ -23,6 +25,18 @@ pnpm start
 ```
 
 ไฟล์ Artwork ที่พร้อมใช้รวมอยู่ในโปรเจกต์แล้ว ไม่ต้องมี API key หรือเรียกสร้างภาพใหม่ตอนรันแอป
+
+## Deploy บน Vercel
+
+โปรเจกต์ Vercel ชื่อ `photo-booth-arcade` เชื่อมกับ GitHub repository นี้ ใช้ Next.js preset, Node.js 24.x และ pnpm 10.32.1 ไม่ต้องตั้ง environment variables สำหรับการทำงานของแอป
+
+```sh
+pnpm dlx vercel@latest login
+pnpm dlx vercel@latest link --project photo-booth-arcade --scope vittayaions-projects
+pnpm dlx vercel@latest deploy --prod --scope vittayaions-projects
+```
+
+`.vercelignore` ไม่ส่งภาพต้นฉบับและไฟล์ QA ขึ้นชุด deploy แต่ส่ง Production Assets ใน `public/assets` ครบ ส่วน `.vercel` และ `.env*` ถูก ignore จาก Git กล้องทำงานผ่าน HTTPS โดยยังต้องได้รับสิทธิ์จากผู้ใช้
 
 ## สิ่งที่ใช้งานได้
 
