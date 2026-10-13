@@ -93,7 +93,7 @@ pnpm build
 pnpm test
 ```
 
-Playwright เปิด production server ชั่วคราวที่ port 3000 และใช้ Google Chrome ที่ติดตั้งไว้ (`channel: 'chrome'`) พร้อมกล้องจำลอง จึงไม่เปิดกล้องจริงขณะทดสอบ หากไม่มี Chrome ให้ติดตั้ง Chrome หรือเปลี่ยน channel แล้วติดตั้ง Chromium ของ Playwright
+Playwright เปิด production server ชั่วคราวที่ port 3100 แยกจาก dev server บน port 3000 และไม่ reuse server ที่เปิดอยู่ ใช้ Google Chrome ที่ติดตั้งไว้ (`channel: 'chrome'`) พร้อมกล้องจำลอง จึงไม่เปิดกล้องจริงขณะทดสอบ หากไม่มี Chrome ให้ติดตั้ง Chrome หรือเปลี่ยน channel แล้วติดตั้ง Chromium ของ Playwright
 
 การทดสอบครอบคลุม Assets/alpha, camera 1/4/6 ช่อง, cancellation, retake, permission denied, Upload เสีย, mouse/touch gestures, Undo/Redo, text editing, route guards, PNG dimensions/pixels และความตรงกันของ Preview/Download พร้อม screenshots ที่ 375/768/1440 px ดูผลล่าสุดใน `TESTING.md`
 

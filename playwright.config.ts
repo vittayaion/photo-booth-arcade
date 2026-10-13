@@ -7,7 +7,7 @@ export default defineConfig({
   workers: 1,
   reporter: "list",
   use: {
-    baseURL: "http://localhost:3000",
+    baseURL: "http://localhost:3100",
     channel: "chrome",
     headless: true,
     viewport: { width: 1440, height: 1000 },
@@ -21,9 +21,9 @@ export default defineConfig({
     screenshot: "only-on-failure",
   },
   webServer: {
-    command: "pnpm start",
-    url: "http://localhost:3000",
-    reuseExistingServer: true,
+    command: "pnpm exec next start --hostname 127.0.0.1 --port 3100",
+    url: "http://localhost:3100",
+    reuseExistingServer: false,
     timeout: 120000,
   },
 });

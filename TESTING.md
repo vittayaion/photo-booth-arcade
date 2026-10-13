@@ -7,7 +7,7 @@
 | TypeScript strict (`pnpm typecheck`)              | Passed                                          |
 | Next.js production build (`pnpm build`)           | Passed; all five application routes prerendered |
 | Asset validation (`pnpm assets:check`)            | Passed                                          |
-| Playwright / Google Chrome headless (`pnpm test`) | 14 passed, approximately 1.6 minutes             |
+| Playwright / Google Chrome headless (`pnpm test`) | 14 passed, approximately 1.5 minutes             |
 
 ## Asset verification
 
@@ -43,5 +43,7 @@ Browser screenshots are saved under `artwork/qa/` for Home (three widths), deskt
 The tests deliberately use Chromium's fake media stream and do not silently activate a physical camera.
 
 ## Local execution notes
+
+The final browser run uses a dedicated production server on port 3100 with `reuseExistingServer: false`. This avoids silently testing against an existing development server on port 3000.
 
 The first sandboxed Turbopack build stalled and was stopped. The approved build outside the sandbox completed successfully. The TypeScript asset runner also needed approved local IPC access. These are execution-environment permissions, not application build failures; subsequent production builds, asset checks, and browser tests passed.

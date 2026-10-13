@@ -452,6 +452,6 @@ test("mobile editor touch drag and export six images", async ({ browser }) => {
 test("direct routes redirect without a session", async ({ page }) => {
   for (const path of ["/camera", "/editor", "/preview", "/result"]) {
     await page.goto(path);
-    await expect(page).toHaveURL("http://localhost:3000/");
+    await expect(page).toHaveURL("http://localhost:3100/");
   }
 });
